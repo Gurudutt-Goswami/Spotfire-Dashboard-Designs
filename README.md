@@ -24,7 +24,7 @@ We can have action controls in place of these images or can show details regardi
 
 ![Summary Page Redefine](https://user-images.githubusercontent.com/86184439/127554714-1195b7f7-82fd-4753-a3d9-69d4e9119c40.JPG)
 
-#### When you hover over any of the following four divisions
+#### When you hover over on any of the following four divisions
 
 ![Summary Page Redefine 1](https://user-images.githubusercontent.com/86184439/127554710-154dfebf-ae5e-403e-b46b-53d96c09e0f0.JPG)
 
