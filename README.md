@@ -13,7 +13,7 @@
 8) [Athen Olympic Dashboard](#Athen-Olympic-Dashboard)
 
 ### Thumbnails
-We can have action controls in place of this or can show details regarding regarding specific tabs using JS/JQuery.
+We can have action controls in place of these images or can show details regarding all the tabs using JS/JQuery.
 ![Casuality](https://user-images.githubusercontent.com/86184439/127554721-221445a7-d23b-4230-a86f-f863641b47e2.JPG)
 
 ### SlideShow 
