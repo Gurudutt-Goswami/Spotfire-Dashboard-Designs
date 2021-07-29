@@ -2,6 +2,16 @@
 ### All the following screenshot are from the Spotfire client & mostly made in 7.11 & earlier version using mostly html, css, Javascript, JQuery & Ironpython.
 ### For any further information please fell fork, raise pull requests or directly reach out to me.
 
+### Dashboard Links
+1) [Thumbnails](#Thumbnails)
+2) [Slideshow](#Slideshow)
+3) [Animation on html Divison on Hover](#Animation-on-html-Divison-on-Hover)
+4) [Boeing](#Boeing)
+5) [Showing Details Horizontally](#Showing-Details-Horizontally)
+6) [Details in Circular Animatio](#Details-in-Circular-Animation)
+7) [Map Diagram](#Map-Diagram)
+8) [Athen Olympic Dashboard](#Athen-Olympic-Dashboard)
+
 ### Thumbnails
 We can have action controls in place of this or can show details regarding regarding specific tabs using JS/JQuery.
 ![Casuality](https://user-images.githubusercontent.com/86184439/127554721-221445a7-d23b-4230-a86f-f863641b47e2.JPG)
