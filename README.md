@@ -1,7 +1,13 @@
+### All the following screenshot are from the Spotfire client & mostly made in 7.11 & earlier version using mostly html, css, Javascript, JQuery & Ironpython.
+### For any further information please fell fork, raise pull requests or directly reach out to me.
+
+### SlideShow 
 ![slideshow](https://user-images.githubusercontent.com/86184439/127554705-b632c8f3-e217-4eb8-9fc4-b281e572f12d.JPG)
+
 ![Summary Page Redefine 1](https://user-images.githubusercontent.com/86184439/127554710-154dfebf-ae5e-403e-b46b-53d96c09e0f0.JPG)
 ![Summary Page Redefine 2](https://user-images.githubusercontent.com/86184439/127554711-8f135c17-fade-441d-bbd9-0893cda23929.JPG)
 ![Summary Page Redefine](https://user-images.githubusercontent.com/86184439/127554714-1195b7f7-82fd-4753-a3d9-69d4e9119c40.JPG)
+
 ![The Boeing](https://user-images.githubusercontent.com/86184439/127554716-4e173624-3913-49dc-b03d-7b48424a4db2.JPG)
 ![The whole in the universe 1](https://user-images.githubusercontent.com/86184439/127554718-367b2c90-e25a-48d3-8d53-b3e7b645248c.JPG)
 ![whole1](https://user-images.githubusercontent.com/86184439/127554720-df5d39c8-3ade-4228-8a86-6f27846ac57f.JPG)
