@@ -5,7 +5,7 @@
 ### Dashboard Links
 1) [Thumbnails](#Thumbnails)
 2) [Slideshow](#Slideshow)
-3) [Animation on html Divison on Hover](#Animation-on-html-Divison-on-Hover)
+3) [Animation on html Divisons on Hover](#Animation-on-html-Divisons-on-Hover)
 4) [Boeing](#Boeing)
 5) [Showing Details Horizontally](#Showing-Details-Horizontally)
 6) [Details in Circular Animatio](#Details-in-Circular-Animation)
