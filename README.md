@@ -1,6 +1,6 @@
 # Spotfire-Dashboard-Designs
 #### All the following screenshot are from the Spotfire client & mostly made in 7.11 & earlier version using mostly html, css, Javascript, JQuery & Ironpython.
-#### For any further information please feel to fork, raise pull requests or directly reach out to me.
+#### For any further information please feel free to fork, raise pull requests or directly reach out to me.
 
 ### Dashboard Links
 1) [Thumbnails](#Thumbnails)
