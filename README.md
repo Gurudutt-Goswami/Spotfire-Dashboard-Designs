@@ -11,6 +11,8 @@
 6) [Details in Circular Animatio](#Details-in-Circular-Animation)
 7) [Map Diagram](#Map-Diagram)
 8) [Athen Olympic Dashboard](#Athen-Olympic-Dashboard)
+9) [Operational Detailing](#Operational-Detailing)
+10) [Schedule Update](#Schedule-Update)
 
 ### Thumbnails
 We can have action controls in place of these images or can show details regarding all the tabs using JS/JQuery.
@@ -45,4 +47,16 @@ We can have action controls in place of these images or can show details regardi
 
 ### Athen Olympic Dashboard
 ![O Select sport](https://user-images.githubusercontent.com/86184439/127554728-9845ee6d-3187-484f-837b-27d81dd9bb3c.JPG)
+
+### Operational-Detailing
+
+![Ops1](https://user-images.githubusercontent.com/86184439/127721468-29f8d96a-30b5-4509-9207-6c202d50857d.PNG)
+
+#### When you click any of the step 
+![Ops2](https://user-images.githubusercontent.com/86184439/127721502-dd9d6c84-72f8-495c-94ee-26bdae515480.PNG)
+
+### Schedule Update
+![SU1](https://user-images.githubusercontent.com/86184439/127721520-d72ce088-adbe-4dc2-a3ba-06aa8e01a2da.PNG)
+
+
 
